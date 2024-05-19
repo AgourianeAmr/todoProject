@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "-------------- todo dashboard --------------"
+echo "\n\n-------------- todo dashboard --------------"
 
 if [ $# -eq 0 ]; then
 	CURRENT_DATE=$(date +%d-%m-%Y)
